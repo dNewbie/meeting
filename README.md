@@ -58,7 +58,6 @@ top页面->页面顶部( 包括退出登录和修改密码)
 
 >db.password=你的密码  
 
->db.url=jdbc:mysql:///meeting?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai  
 
 
 
